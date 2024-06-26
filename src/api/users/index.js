@@ -1,6 +1,6 @@
-import UserRoute from './user.router.js';
-import UserController from './user.controller.js';
-import UserService from './user.service.js';
+import UserRoute from './users.router.js';
+import UserController from './users.controller.js';
+import UserService from './users.service.js';
 
 export {
     UserRoute,
